@@ -42,4 +42,4 @@ The project is tested using a Verilog testbench on EDA Playground. Input combina
 - Real-time temperature and motion monitoring.
 
 ## 8. Author
-..... 
+ANUSHKA SINGH
